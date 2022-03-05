@@ -1,4 +1,4 @@
-export default function  getanimations(mainarr){ 
+export default function merge(mainarr){ 
     var animations=[];
     var sidearray=mainarr.slice();
     mergehelp(mainarr,0,mainarr.length-1,sidearray,animations);

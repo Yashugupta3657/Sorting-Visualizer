@@ -38,12 +38,14 @@ gap: 20px;
    font-weight: bold;
    border-radius:0.5rem;
    background-color: white;
+   cursor: pointer;
 }
 #button2{
   font-size: 17px;
   font-weight: bold;
   border-radius:0.5rem;
   background-color: white;
+  cursor: pointer;
 }
 #button1:hover{
    background-color: black;
